@@ -1,0 +1,2 @@
+['remote "textocr_data"']
+    url = s3://data-engine-ocr
