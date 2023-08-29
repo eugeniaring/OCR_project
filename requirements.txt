@@ -1,5 +1,6 @@
 dagshub==0.3.3
-fiftyone==0.21.4
+fiftyone mlflow
+fiftyone-db-ubuntu2204
 jupyterlab==4.0.3
 label-studio-converter==0.0.54
 mlflow==2.5.0
